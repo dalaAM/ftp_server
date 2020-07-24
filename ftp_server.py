@@ -8,9 +8,11 @@ from threading import Thread
 import os, time
 
 # 全局变量
-HOST = '0.0.0.0'
-PORT = 8888
-ADDR = (HOST, PORT)  # 服务器地址
+
+
+
+
+  # 服务器地址
 
 # 文件库
 FTP = "/home/tarena/FTP/"
